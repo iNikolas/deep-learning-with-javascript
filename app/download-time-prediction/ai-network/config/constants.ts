@@ -8,4 +8,4 @@ export const optimizer = "sgd";
 
 export const loss = "meanAbsoluteError";
 
-export const epochs = 10;
+export const epochs = 200;
